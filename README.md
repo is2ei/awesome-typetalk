@@ -12,4 +12,4 @@ A curated list of awesome Typetalk API clients, integrations.
 
 ### JavaScript
 
-- [is2ei/passport-typetalk](https://github.com/is2ei/passport-typetalk) - Typtalk OAuth2 strategy for Passport
+- [is2ei/passport-typetalk](https://github.com/is2ei/passport-typetalk) - Typetalk OAuth2 strategy for Passport
