@@ -7,3 +7,9 @@ A curated list of awesome Typetalk API clients, integrations.
 ### Go
 
  - [nulab/go-typetalk](https://github.com/nulab/go-typetalk) - go-typetalk is a GO client library for accessing the Typetalk API.
+
+## Authentication
+
+### JavaScript
+
+- [is2ei/passport-typetalk](https://github.com/is2ei/passport-typetalk) - Typtalk OAuth2 strategy for Passport
