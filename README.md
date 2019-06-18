@@ -12,10 +12,14 @@ A curated list of awesome Typetalk API clients, integrations.
 
 ### JavaScript
 
-- [is2ei/passport-typetalk](https://github.com/is2ei/passport-typetalk) - Typetalk OAuth2 strategy for Passport
+- [passport-typetalk](https://www.npmjs.com/package/passport-typetalk) - Typetalk OAuth2 strategy for Passport
 
 ## Plugins
 
 ### JavaScript
 
-- [is2ei/serverless-plugin-typetalk](https://github.com/is2ei/serverless-plugin-typetalk)
+- [serverless-plugin-typetalk](https://www.npmjs.com/package/serverless-plugin-typetalk) - Typetalk plugin for Serverless
+
+### Python
+
+- [cabot-alert-typetalk](https://pypi.org/project/cabot-alert-typetalk/)
