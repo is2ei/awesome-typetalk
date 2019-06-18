@@ -22,4 +22,4 @@ A curated list of awesome Typetalk API clients, integrations.
 
 ### Python
 
-- [cabot-alert-typetalk](https://pypi.org/project/cabot-alert-typetalk/)
+- [cabot-alert-typetalk](https://pypi.org/project/cabot-alert-typetalk/) - Typetalk plugin for Cabot
