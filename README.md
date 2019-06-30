@@ -14,6 +14,10 @@ A curated list of awesome Typetalk API clients, integrations.
 
 - [passport-typetalk](https://www.npmjs.com/package/passport-typetalk) - Typetalk OAuth2 strategy for Passport
 
+### Elixir
+
+- [ueberauth_typetalk](https://hex.pm/packages/ueberauth_typetalk)
+
 ## Plugins
 
 ### JavaScript
