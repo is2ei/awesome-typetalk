@@ -16,7 +16,7 @@ A curated list of awesome Typetalk API clients, integrations.
 
 ### Elixir
 
-- [ueberauth_typetalk](https://hex.pm/packages/ueberauth_typetalk)
+- [ueberauth_typetalk](https://hex.pm/packages/ueberauth_typetalk) - An Ueberauth strategy for using Typetalk to authenticate your users
 
 ## Plugins
 
