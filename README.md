@@ -10,13 +10,18 @@ A curated list of awesome Typetalk API clients, integrations.
 
 ## Authentication
 
+### Elixir
+
+- [ueberauth_typetalk](https://hex.pm/packages/ueberauth_typetalk) - An Ueberauth strategy for using Typetalk to authenticate your users
+
 ### JavaScript
 
 - [passport-typetalk](https://www.npmjs.com/package/passport-typetalk) - Typetalk OAuth2 strategy for Passport
 
-### Elixir
+### Ruby
 
-- [ueberauth_typetalk](https://hex.pm/packages/ueberauth_typetalk) - An Ueberauth strategy for using Typetalk to authenticate your users
+- [omniauth-typetalk](https://rubygems.org/gems/omniauth-typetalk) - OmniAuth strategy for Typetalk, chat app by Nulab
+
 
 ## Plugins
 
